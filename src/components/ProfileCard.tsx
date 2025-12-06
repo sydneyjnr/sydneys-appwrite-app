@@ -24,7 +24,7 @@ const ProfileCard= () => {
                 <div className="flex gap-y-6 flex-wrap">
                     <div className="flex w-full gap-x-4 items-center">
                         <div className="shrink-0 w-20">
-                            <Avatar img="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
+                            <Avatar img="https://media.licdn.com/dms/image/v2/C4D0BAQECzS5UomxEWg/company-logo_200_200/company-logo_200_200/0/1651250766017/rou_technology_logo?e=1766620800&v=beta&t=B1tpgpfYTL86ozd7EyO-BdqU6Ie7S5vARTHm8Yc9z4o" />
                         </div>
                         <div className="relative">
                             <p className="font-bold text-xl w-full mb-1">{user.name}</p>

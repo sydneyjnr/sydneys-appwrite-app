@@ -18,7 +18,7 @@ const Home = () => {
                         <h1 className="font-bold text-3xl mb-4">
                             NextJS 13 Authentication with <span className="text-primary">Appwrite</span>
                         </h1>
-                        <p className="text-black/60">
+                        <p className="text-white/60">
                             Integrate secure user authentication into your Next.js web applications using
                             Appwrite, an open-source backend server. Follow along as we demonstrate the
                             step-by-step process of setting up and implementing authentication
